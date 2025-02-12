@@ -31,6 +31,6 @@
 ---
 ### 📫 Get in Touch
 💌 **Email:** Rasmus782@gmail.com
-🌍 **Portfolio:** [YOUR WEBSITE](https://0ls3n.dk/)  
+🌍 **Portfolio:** [0ls3n.dk](https://0ls3n.dk/)  
 📷 **Instagram:** [@YourInsta](https://instagram.com/YourInsta)  
 
