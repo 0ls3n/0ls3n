@@ -2,7 +2,7 @@
 🚀 Developer | 🎸 Guitarist | 🎛️ Music Producer  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rasmus-olsen-a036471bb/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://0ls3n.dk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ls3n.dk-orange)](https://0ls3n.dk/)
 [![Email](https://img.shields.io/badge/Email-Rasmus782@gmail.com-red)](mailto:Rasmus782@gmail.com)
 
 ---
