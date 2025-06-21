@@ -34,6 +34,6 @@
 ---
 ### 📫 Get in Touch
 💌 **Email:** Rasmus782@gmail.com
-🌍 **Portfolio:** [0ls3n.dk](https://0ls3n.dk/)  
+🌍 **Portfolio:** [0ls3n.dk](https://0ls3n.dk/om-mig/)  
 📷 **Instagram:** [Rasmus Olsen](https://www.instagram.com/rasmusolsen03/)  
 
