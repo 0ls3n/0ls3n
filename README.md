@@ -9,7 +9,7 @@
 ### 🛠 Tech Stack
 - 🎵 **Music:** Reaper 
 - 💻 **Languages:** C#, C++, Javascript, Typescript, Python 
-- 🌐 **Frameworks:** .NET, Blazor, ASP.NET, TailwindCSS, Bootstrap, Next.Js
+- 🌐 **Frameworks:** .NET, Blazor, ASP.NET, TailwindCSS, Bootstrap, Next.Js, JUCE
 - 🔧 **Tools:** Git, Docker, Visual Studio, VS Code, Unreal Engine 5
 
 ---
