@@ -16,7 +16,7 @@
 ### 🎸 Projects
 💻 **[Arvefordeleren](https://github.com/Markusrgg/Arvefordeleren)** - Inheritance calculation in Denmark
 
-🎶 **[JustReference Plugin](https://github.com/0ls3n/JustReference)** - A minimalist JUCE-based plugin that helps you make better mixing decisions
+🎶 **[JustReference Plugin](https://github.com/0ls3n/JustReference-Dev)** - A minimalist JUCE-based plugin that helps you make better mixing decisions
 
 ---
 ### 📊 GitHub Stats
