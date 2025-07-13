@@ -19,6 +19,12 @@
 🎶 **[JustReference Plugin](https://github.com/0ls3n/JustReference-Dev)** - A minimalist JUCE-based plugin that helps you make better mixing decisions
 
 ---
+### Contribution
+If you like what I do, I would be very happy to recieve any kind of contribution :)
+
+<a href="https://www.buymeacoffee.com/0ls3n" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+---
 ### 📊 GitHub Stats
 ![Rasmus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=0ls3n&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0ls3n&layout=compact&theme=radical)  
